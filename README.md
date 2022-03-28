@@ -1,14 +1,17 @@
-# Berichtsheft
-Kopfzeile 1
+# Ausbildungsnachweise
+Manuel Krey
 
-Dies ist ein normaler Absatz nach einer Überschrift. GitHub ist eine Code-Hosting-Plattform für Versionskontrolle und Zusammenarbeit. Damit können Sie und andere von überall aus an Projekten zusammenarbeiten.
-Kopfzeile 2
+# Überblick
 
-    Dies ist ein Blockzitat nach einem Header.
+Dieses Repository ist für das speichern von Ausbildungsnachweisen.
+Es dient auch zur Verknüpfung mit dem Bildungsträger 
+und bietet soll auch für die Rückantworten Platz finden.
 
-    Wenn etwas wichtig genug ist, tun Sie es, auch wenn die Chancen nicht zu Ihren Gunsten stehen.
+# Zum Download
 
-Kopfzeile 3
+    Einfach oben auf den grünen Button klicken und Download ZIP auswählen.
+
+    Natürlich auf der Seite mit dem Ausbildungsnachweisen als Datei angezeigt z.B <Bericht_1>.... https://github.com/Berufsschule-Fachinformatiker/Berichtsheft/
 
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
